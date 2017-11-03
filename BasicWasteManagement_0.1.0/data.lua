@@ -1,5 +1,6 @@
 --data.lua
 
 require("prototypes.item")
-require("prototypes.recipes")
+require("prototypes.existing-recipes")
+require("prototypes.recycling-recipe")
 require("prototypes.entity")
